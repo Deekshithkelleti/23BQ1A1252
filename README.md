@@ -15,11 +15,4 @@ npm install
 npm run dev
 ```
 Open http://localhost:3000
-## Logging Middleware
-A custom logging middleware was implemented to log:
-- API request URL
-- HTTP method
-- Request timestamp
-- Response status
-- Errors during API calls
-This helps monitor and debug notification API interactions.
+
